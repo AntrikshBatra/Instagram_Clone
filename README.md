@@ -1,6 +1,6 @@
 # instagram_flutter
 
-A new Flutter project.
+A fully responsive clone of social app Instagram. You can post your pictures, search your friends, follow them , comment on their pics , like their posts , login into app using password , write your bio and username and many more. the app also supports state management and data management.Used Firebase for database.
 
 ## Getting Started
 
